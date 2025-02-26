@@ -6,6 +6,7 @@ public class SC001 {
 		// TODO Auto-generated method stub
         System.out.println("We are from Regrowtech");
 		System.out.println("Hello my friends. This my first git class!!!");
+		System.out.println("hello");
 
 	}
 
